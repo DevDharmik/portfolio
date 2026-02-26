@@ -1,0 +1,7 @@
+export default function AboutSection() {
+  return (
+    <section>
+      <h1>About Me</h1>
+    </section>
+  );
+}
